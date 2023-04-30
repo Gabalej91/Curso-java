@@ -1,0 +1,59 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+.bs-as {
+  background-color: #0f2942;
+  padding: 20px;
+}
+
+.card-group {
+  width: 80%;
+  margin: auto;
+}
+
+.form1 {
+  width: 60%;
+  margin: auto;
+}
+
+#button-enviar {
+  background-color: #b2d739;
+}
+
+footer {
+  background-color: #173d61;
+}
+/*
+.card{
+    margin: 0 25px;
+}
+*/
+/*
+h6{
+    font-weight:300;
+}
+*/
+.texto-carousel {
+  width: 500px;
+  margin-top: 20%;
+  margin-right: 10%;
+  font-weight: 400;
+}
+
+.bs-as-oct {
+  background-color: rgb(75, 63, 63);
+  color: white;
+}
+
+.text-nav {
+  color: grey;
+}
+
+.text-nav:hover {
+  color: white;
+}
+
+
+
