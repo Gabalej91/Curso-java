@@ -55,5 +55,10 @@ h6{
   color: white;
 }
 
+.caja{
+  display: inline-flex;
+  margin:auto;
 
+
+}
 
